@@ -9,26 +9,21 @@
   🤖 Machine Learning & Deep Learning Enthusiast <br>
   📈 Python | Java | Scikit-learn | NLP | Streamlit | FastAPI <br>
   💡 Exploring MLOps, Transformers, and scalable AI solutions <br>
-  💻 Competitive Programmer on <a href="https://leetcode.com/u/Lakshya65175/">LeetCode</a> <br>
 </p>
 
 ---
 
-### 🚀 About Me
+**🚀 About Me**
 
-🎯 Passionate about building intelligent systems that solve real-world problems
-
-📚 Currently learning Deep Learning fundamentals and core ML concepts
-
-🛠️ Experimenting with tools like Streamlit, FastAPI, and Docker
-
-🔭 Planning to dive into NLP, Computer Vision, and MLOps in the near future
-
-📊 Enjoy working with data, doing feature engineering, and building robust ML pipelines
+- 🎯 Passionate about building **intelligent systems** that solve real-world problems  
+- 📚 Currently learning **Deep Learning** fundamentals and core ML concepts  
+- 🛠️ Experimenting with tools like **Streamlit**, **FastAPI**, and **Docker**  
+- 🔭 Planning to dive into **NLP**, **Computer Vision**, and **MLOps** in the near future  
+- 📊 Enjoy working with data, doing feature engineering, and building robust ML pipelines  
 
 ---
 
-### 🧠 Tech Stack
+**🧠 Tech Stack**
 
 <!-- Icons row -->
 <p align="center">
@@ -55,17 +50,7 @@
 
 ---
 
-### 🏆 LeetCode Stats
-
-<p align="center">
-  <a href="https://leetcode.com/u/Lakshya65175/">
-    <img src="https://leetcard.jacoblin.cool/Lakshya65175?theme=dark&font=JetBrains%20Mono" alt="LeetCode Stats" />
-  </a>
-</p>
-
----
-
-### 📫 Connect With Me
+**📫 Connect With Me**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lakshya-raj-24bb58320/">
@@ -77,15 +62,6 @@
   <a href="https://leetcode.com/u/Lakshya65175/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LakshyaR36&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LakshyaR36&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
