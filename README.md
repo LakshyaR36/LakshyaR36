@@ -16,11 +16,15 @@
 
 ### 🚀 About Me
 
-- 🎯 Passionate about building **intelligent systems** that solve real-world problems  
-- 🔍 Currently diving deeper into **MLOps**, **Model Deployment**, and **LLMs**  
-- 🛠️ Building and deploying apps using **Streamlit**, **FastAPI**, and **Docker**
-- 🧠 Applying **Deep Learning** techniques in NLP, Computer Vision & Tabular data  
-- 📊 Love working with data, feature engineering, and optimizing ML pipelines  
+🎯 Passionate about building intelligent systems that solve real-world problems
+
+📚 Currently learning Deep Learning fundamentals and core ML concepts
+
+🛠️ Experimenting with tools like Streamlit, FastAPI, and Docker
+
+🔭 Planning to dive into NLP, Computer Vision, and MLOps in the near future
+
+📊 Enjoy working with data, doing feature engineering, and building robust ML pipelines
 
 ---
 
