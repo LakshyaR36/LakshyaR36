@@ -58,11 +58,17 @@
 
 ---
 
-**🔥 GitHub Streak**
+---
+
+---
+
+**📊 GitHub Stats**
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=LakshyaR36&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LakshyaR36&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+
+
 
 ---
 
