@@ -56,9 +56,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshyaR36&layout=compact&theme=radical&hide=css,html&langs_count=6" alt="Top Languages" />
 </p>
 
----
-
----
 
 ---
 
@@ -67,8 +64,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LakshyaR36&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-
-
 
 ---
 
