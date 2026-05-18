@@ -1,125 +1,97 @@
-# Hi, I'm Lakshya Raj 👋
+<h1 align="center">Hi 👋, I'm Lakshya Raj</h1>
 
-## 🚀 Backend Developer | Distributed Systems Enthusiast | AI/ML Explorer
+<h3 align="center">
+Backend Developer • Distributed Systems Enthusiast • AI/ML Explorer
+</h3>
 
-I’m a Computer Science undergraduate at Manipal University Jaipur passionate about building scalable backend systems, cloud-native applications, and AI-powered platforms.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Building+Scalable+Backend+Systems;Spring+Boot+%7C+Microservices+%7C+Cloud;Distributed+Systems+%7C+AI+Integration;Always+Learning+New+Things" />
+</p>
 
-I enjoy solving real-world engineering problems involving:
-- Distributed Systems
-- Scalable Backend Architecture
-- Microservices
-- Cloud & DevOps
-- AI Integration
-- System Design
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,postgres,redis,kafka,docker,kubernetes,aws,tensorflow" />
+</p>
+
+---
+
+# 🚀 About Me
+
+- 💻 Computer Science undergraduate passionate about backend engineering and scalable systems  
+- ⚡ Building cloud-native applications using Java & Spring Boot  
+- 🧠 Interested in Distributed Systems, Microservices, System Design & AI Integration  
+- 🌱 Currently exploring high-performance backend architectures and event-driven systems  
 
 ---
 
 # 🛠 Tech Stack
 
-## Languages
-- Java
-- Python
-- SQL
-- C
+### Backend
+`Java` `Spring Boot` `Spring Security` `Hibernate/JPA` `REST APIs`
 
-## Backend Development
-- Spring Boot
-- Spring MVC
-- Spring Security
-- Hibernate / JPA
-- REST APIs
+### Architecture
+`Microservices` `Distributed Systems` `Event-Driven Architecture`
 
-## Architecture & Systems
-- Microservices
-- Distributed Systems
-- Event-Driven Architecture
-- System Design
+### Databases & Streaming
+`PostgreSQL` `MySQL` `Redis` `Apache Kafka`
 
-## Databases & Caching
-- PostgreSQL
-- MySQL
-- Redis
+### Cloud & DevOps
+`Docker` `Kubernetes` `AWS` `CI/CD`
 
-## Messaging & Streaming
-- Apache Kafka
-
-## Cloud & DevOps
-- Docker
-- Kubernetes
-- AWS
-- AWS CodePipeline
-- Elastic Beanstalk
-
-## AI & Data Science
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- PyTorch
-- OpenCV
-- Scikit-learn
+### AI & ML
+`TensorFlow` `PyTorch` `OpenCV` `Scikit-learn`
 
 ---
 
 # 📌 Featured Projects
 
-## 🚀 NexSpace – Collaborative SaaS Platform
+## 🚀 NexSpace — Collaborative SaaS Platform
 
-A scalable collaborative workspace platform supporting secure authentication, subscriptions, project management, and AI-powered workflows.
+Scalable collaborative workspace platform with authentication, subscriptions, AI-powered workflows, and cloud-native microservices architecture.
 
-### Features
-- Secure authentication with JWT & Google OAuth
+### ✨ Highlights
+- JWT & Google OAuth authentication
 - Role-based access control
-- Subscription & billing workflows
-- AI-powered content interaction
-- Microservices architecture
-- Kafka-based asynchronous communication
+- Kafka-based event-driven communication
 - Redis caching for performance optimization
 - Docker & Kubernetes deployment
+- AI-powered content interaction
+- Subscription & billing workflows
 
-### Tech Used
-Java • Spring Boot • Kafka • Redis • PostgreSQL • Docker • Kubernetes • AWS
-
----
-
-## 🏠 Airbnb Backend – Booking & Property Management System
-
-Production-grade backend system for property listings, bookings, and user management.
-
-### Features
-- Property listing management
-- Booking workflows
-- Secure authentication & authorization
-- Optimized relational database design
-- Concurrency handling for reservations
-- Robust API validation & exception handling
-
-### Tech Used
-Java • Spring Boot • MySQL • PostgreSQL • Spring Security • JWT
+### 🛠 Tech
+`Java` `Spring Boot` `Kafka` `Redis` `PostgreSQL` `Docker` `Kubernetes` `AWS`
 
 ---
 
-## 🌍 GeoNet – Satellite Image Segmentation
+## 🌐 Offline UPI Mesh Payment Simulator
 
-Deep learning project for semantic segmentation of satellite imagery using U-Net architecture.
+Distributed offline payment simulation system enabling secure transaction relay across nearby devices without internet connectivity.
 
-### Features
+### ✨ Highlights
+- Mesh-network-inspired transaction relay
+- Hybrid encryption using RSA + AES
+- Gossip-based packet propagation
+- Idempotent settlement handling
+- Replay & tamper protection
+- Delayed synchronization workflows
+
+### 🛠 Tech
+`Java` `Spring Boot` `Distributed Systems` `Cryptography` `REST APIs`
+
+---
+
+## 🌍 GeoNet — Satellite Image Segmentation
+
+Deep learning system for semantic segmentation of satellite imagery using U-Net architecture.
+
+### ✨ Highlights
 - Pixel-level land-cover classification
-- Data preprocessing & augmentation pipeline
-- Achieved 89% pixel accuracy
+- 89% pixel accuracy with optimized preprocessing
+- Augmentation & normalization pipeline
 - Modular training & visualization workflows
 
-### Tech Used
-Python • TensorFlow • OpenCV • NumPy • Scikit-learn
+### 🛠 Tech
+`Python` `TensorFlow` `OpenCV` `NumPy` `Scikit-learn`
 
----
-
-# 📈 Currently Exploring
-- Advanced System Design
-- Cloud-Native Architectures
-- High-Performance Distributed Systems
-- AI-powered Backend Applications
-- Event-Driven Systems
-
----
-
-⭐ Always open to collaborating on backend, cloud, distributed systems, and AI-driven projects.
+<p align="center">
+⭐ Open to opportunities in Backend Engineering, Distributed Systems, and Cloud Development.
+</p>
